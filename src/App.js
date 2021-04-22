@@ -1,6 +1,6 @@
-import React from 'react';
+import React from 'react'
 
-import './App.css';
+import './App.css'
 
 import TotalDisplay from './components/TotalDisplay';
 import CalcButton from './components/CalcButton';
